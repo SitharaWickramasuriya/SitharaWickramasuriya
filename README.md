@@ -1,6 +1,6 @@
 # I'm Sithara Sathsarani Wickramasuriya! 🇱🇰
 
-🌱 I'm currently learning **Java, Python, React, and Web Development**  
+🌱 I'm currently learning **Java, Python, Web Development, React**  
 🎓 Undergraduate in the **Department of Computer Science** at EUSL  
 📫 Email: [sitharasathsaraniwic@gmail.com](mailto:sitharasathsaraniwic@gmail.com)
 
@@ -12,7 +12,9 @@
 ## 🚀 Languages and Tools:
 ![Java](https://img.shields.io/badge/Java-red?logo=java&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python&style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
