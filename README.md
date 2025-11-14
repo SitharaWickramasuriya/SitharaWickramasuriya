@@ -10,7 +10,7 @@ My focus areas include Java, Python, Web & Mobile Development, React Native, Ang
 
 ## 🔧 My Tech Stack  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,cpp,cs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,cpp,cs,git,github,vscode,angular,firebase,.net,sql" />
 </p>
 
 ---
