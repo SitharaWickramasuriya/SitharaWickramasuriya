@@ -1,20 +1,56 @@
-# I'm Sithara Sathsarani Wickramasuriya! 🇱🇰
+# 👋 Hello, I’m **Sithara Sathsarani Wickramasuriya**  
+*Aspiring Full-Stack Developer | Tech Enthusiast | Problem-Solver* 🇱🇰
 
-🌱 I'm currently learning **Java, Python, Web Development, React**  
-🎓 Undergraduate in the **Department of Computer Science** at EUSL  
-📫 Email: [sitharasathsaraniwic@gmail.com](mailto:sitharasathsaraniwic@gmail.com)
+---
 
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sithara-sathsarani-wickramasuriya-a64b9a2a6/) 
-[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge)](http://instagram.com/sithara_wickramasuriya) 
-[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook&style=for-the-badge)](https://www.facebook.com/sithara.sathsarani.56884)
+## 🌱 About Me  
+I’m currently pursuing a Bachelor’s in Computer Science at the University of Eastern Sri Lanka (EUSL).  
+My focus areas include **Java**, **Python**, **Web Development**, and **React**, and I’m passionate about building clean, efficient, and user-friendly software.
 
-## 🚀 Languages and Tools:
-![Java](https://img.shields.io/badge/Java-red?logo=java&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-yellow?logo=python&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&style=for-the-badge)
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
+---
+
+## 🔧 My Tech Stack  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,cpp,cs,git,github,vscode" />
+</p>
+
+---
+
+## 🚀 What I’m Working On  
+- Developing full-stack web applications using **React + Node/Java + REST/APIs**  
+- Integrating automation and AI/ML elements into real-world tools  
+- Participating in open source and improving my competitive programming & problem-solving skills  
+- Building a strong software engineering foundation and UI/UX awareness
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SitharaWickramasuriya&show_icons=true&theme=react&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SitharaWickramasuriya&layout=compact&theme=react&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Let’s Connect  
+<p align="left">
+  <a href="https://www.linkedin.com/in/sithara-sathsarani-wickramasuriya-a64b9a2a6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white" /></a>
+  <a href="https://instagram.com/sithara_wickramasuriya"><img src="https://img.shields.io/badge/Instagram-E1306C?logo=instagram&style=for-the-badge&logoColor=white" /></a>
+  <a href="https://facebook.com/sithara.sathsarani.56884"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge&logoColor=white" /></a>
+</p>
+
+---
+
+## 🎯 Favorite Quote  
+> “The only way to do great work is to love what you do.” — Steve Jobs
+
+---
+
+## 📌 Fun Facts  
+- 🌍 I’m based in Sri Lanka and love combining culture & tech in creative ways.  
+- 🎮 In my free time I explore UI design, build mini automation tools, and practise coding challenges.  
+- 🎧 My ideal workspace: coffee, code, and good music.
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories, connect, and collaborate—let’s build something awesome together. 🚀
