@@ -1,12 +1,11 @@
-# 👋 Hello, I’m **Sithara Sathsarani Wickramasuriya**  
+# Hello, I’m **Sithara Sathsarani Wickramasuriya**  
 *Aspiring Full-Stack Developer | Tech Enthusiast | Problem-Solver* 🇱🇰
 
 ---
 
 ## 🌱 About Me  
 I’m currently pursuing a Bachelor’s in Computer Science at the University of Eastern Sri Lanka (EUSL).  
-My focus areas include **Java**, **Python**, **Web Development**, and **React**, and I’m passionate about building clean, efficient, and user-friendly software.
-
+My focus areas include Java, Python, Web & Mobile Development, React Native, Angular, .NET/C#, Node.js, and Firebase. I’m passionate about building clean, efficient, and user-friendly software and mobile apps.
 ---
 
 ## 🔧 My Tech Stack  
